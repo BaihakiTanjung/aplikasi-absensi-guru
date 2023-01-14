@@ -3,10 +3,12 @@
 Notes implementasi metode
 
 Creational
+
 Singleton
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/blob/master/service/app/Http/Controllers/Api/AttendanceController.php
 
 Builder
+
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/blob/master/service/app/Repositories/Attendance/AttendanceRepositoryImplement.php
 
 Structural
