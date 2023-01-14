@@ -1,23 +1,24 @@
-# aplikasi-absensi-guru
+## aplikasi-absensi-guru
 
 Notes implementasi metode
 
-Creational
+#Creational
 
 Singleton
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/blob/master/service/app/Http/Controllers/Api/AttendanceController.php
 
-Builder
+#Builder
 
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/blob/master/service/app/Repositories/Attendance/AttendanceRepositoryImplement.php
 
-Structural
+#Structural
 
 Adapter
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/blob/master/service/app/Repositories/Attendance/AttendanceRepository.php
 
-Behavioral
+#Behavioral
+
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/blob/master/service/routes/api.php
 
-Architectural
+#Architectural
 https://github.com/BaihakiTanjung/aplikasi-absensi-guru/tree/master/service
